@@ -27091,9 +27091,9 @@ var _stylesCss = require("./styles.css");
     title: "Machine Learning and Artificial Intelligence",
     disc: "In the realm of machine learning and artificial intelligence, we unveil the hidden symphonies of data, composing a future where innovation dances with algorithms, and the crescendo of human potential knows no bounds.",
     email: "RoshaniK04@outlook.com",
-    gitHub: "https://github.com/Roshk01",
+    gitHub: "Roshk01",
     instagram: "microsoft",
-    linkedIn: "http://www.linkedin.com/in/roshani-kumari-",
+    linkedIn: "roshani-kumari-",
     medium: "",
     twitter: "microsoft",
     youTube: "Code"
